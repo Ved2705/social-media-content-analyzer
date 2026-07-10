@@ -28,7 +28,7 @@ advice.
 
 ## Live Demo
 
-- **App**: https://your-frontend-url.onrender.com
+- **App**: https://social-media-content-analyzer-1-3rss.onrender.com
 - **API**: https://social-media-content-analyzer-8fbk.onrender.com
 - **GitHub**: https://github.com/Ved2705/social-media-content-analyzer
 
