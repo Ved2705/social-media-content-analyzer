@@ -10,6 +10,7 @@ advice.
   for OCR fallback on scanned PDFs/images, Groq's free-tier LLM API for AI suggestions.
 - **Frontend**: React (Vite) — drag-and-drop upload (`react-dropzone`), live loading states, results
   dashboard.
+  
 
 ## How It Works
 
@@ -24,6 +25,15 @@ advice.
    model for natural-language suggestions (tone, suggested hashtags, a rewritten hook, and specific
    improvement tips). If no API key is configured, the app still works — it just skips the AI layer
    and shows the rule-based results.
+
+## Live Demo
+
+- **App**: https://your-frontend-url.onrender.com
+- **API**: https://social-media-content-analyzer-8fbk.onrender.com
+- **GitHub**: https://github.com/Ved2705/social-media-content-analyzer
+
+> Note: hosted on Render's free tier — the backend may take 30-50 seconds to
+> wake up on the first request after a period of inactivity.
 
 ## Setup
 
